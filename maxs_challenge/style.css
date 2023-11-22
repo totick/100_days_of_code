@@ -1,0 +1,42 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+  color: #444;
+}
+
+.container {
+  width: 95%;
+  height: 100vh;
+  margin-top: 2rem;
+  text-align: center;
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+header {
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.trophy-container img {
+  border-radius: 50%;
+}
+
+section {
+  color: brown;
+}
+
+footer {
+  font-size: smaller;
+}
+
+footer span {
+  color: brown;
+}
